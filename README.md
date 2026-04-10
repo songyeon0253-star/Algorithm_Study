@@ -30,7 +30,7 @@ PROG_Lv_n.py
 [tag] [PROG_Lv_n] - 이름
 ```
 
-## ⭐ Commit Convention
+## Commit Convention
 
 ```
 [type] [BOJ-문제번호] 문제이름 - 이름
